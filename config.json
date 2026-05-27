@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterfalidate",
+        "uuid": 5707970,
+        "checksum": "uc9fll"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
